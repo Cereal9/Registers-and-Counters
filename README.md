@@ -1,4 +1,4 @@
-# Lab 6: Registers and Counters
+# Lab 6: Registers
 
 
 ### Introduction
