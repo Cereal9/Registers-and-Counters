@@ -1,6 +1,7 @@
 LIBRARY IEEE;
 USE IEEE.std_logic_1164.ALL;
 
+Entity MUX_4to1 is
 Port(
 	Y     : OUT std_logic;
 	
@@ -12,7 +13,7 @@ Port(
 	INP3  : IN std_logic
 
 );
-End 4to1_MUX;
+End MUX_4to1;
 
 
 
