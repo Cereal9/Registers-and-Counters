@@ -90,9 +90,9 @@ Future improvements could include:
 - Expanding the counter to more bits for broader applications.
 
 ### Files in Repository
-- `MUX4to1-1bit.vhd` – VHDL code for the multiplexer
-- `ShiftRegister-8bit.vhd` – VHDL code for the shift register
-- `Counter-4bit.vhd` – VHDL code for the loadable counter
+- `MUX2to1_1bit.vhd` – VHDL code for the multiplexer
+- `4to1_MUX.vhd` – VHDL code for the multiplexer
+- `ShiftRegister.vhd` – VHDL code for the shift register
 - Simulation screenshots (to be added)
 
 
